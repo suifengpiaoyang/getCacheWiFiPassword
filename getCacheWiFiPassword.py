@@ -1,7 +1,3 @@
-# windows
-# 简体中文，中间用到正则表达式，我不知道在别的系统语言下
-# 关键字是什么。
-
 import re
 import subprocess
 
